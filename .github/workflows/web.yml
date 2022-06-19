@@ -14,4 +14,3 @@ jobs:
       - uses: erickzanardo/flutter-gh-pages@v7
         with:
           baseHref: /calorie_budget/
-          workingDir: build/web
